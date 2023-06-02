@@ -27,14 +27,6 @@ The website was developed as part of my HTML and CSS learning journey, with the 
 
 This website was developed as a personal project for learning purposes, and we are currently not accepting external contributions. However, if you have any suggestions or find any issues, feel free to contact us.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/your-username/your-repository/LICENSE) file for more details.
-
-## Contact
-
-- Email: your-email@example.com
-- Phone: (XX) XXXX-XXXX
-- Address: 123 Example Street, City, State
+##Observation
 
 Please note that this technical assistance service and the provided data are fictional. The website was created solely for educational and learning purposes in HTML and CSS.
