@@ -27,6 +27,6 @@ The website was developed as part of my HTML and CSS learning journey, with the 
 
 This website was developed as a personal project for learning purposes, and we are currently not accepting external contributions. However, if you have any suggestions or find any issues, feel free to contact us.
 
-##Observation
+## Observation
 
 Please note that this technical assistance service and the provided data are fictional. The website was created solely for educational and learning purposes in HTML and CSS.
